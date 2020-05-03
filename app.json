@@ -1,0 +1,14 @@
+{
+    "name": "Vbr",
+    "description": "Day",
+    "keywords": ["Vay"],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": "bb806487-2d26-4636-98b6-ab85cc8521bb"
+        }
+    },
+    "website": "https://google.com",
+    "repository": "https://github.com/mzble/vbr",
+    "stack": "container"
+}
